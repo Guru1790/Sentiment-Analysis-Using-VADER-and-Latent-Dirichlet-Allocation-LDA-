@@ -1,1 +1,1 @@
-# entiment-Analysis-Using-VADER-and-Latent-Dirichlet-Allocation-LDA-
+# Sentiment-Analysis-Using-VADER-and-Latent-Dirichlet-Allocation-LDA-
